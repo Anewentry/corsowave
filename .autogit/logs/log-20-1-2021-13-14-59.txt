@@ -1,0 +1,28 @@
+-------------------- Auto-Git Log --------------------
+		Sat Feb 20 2021 13:14:59 GMT+0100 (Ora standard dell’Europa centrale)
+------------------------------------------------------
+
+Modified files:
+* src/components/app.js
+
+
+Created files:
+* .autogit/autogit.json
+* .history/src/components/app_20210219182812.js
+* .history/src/components/app_20210220130737.js
+* .history/src/components/app_20210220130744.js
+* .history/src/components/app_20210220131040.js
+* .history/src/components/app_20210220131042.js
+* .history/src/components/app_20210220131044.js
+* .history/src/components/app_20210220131236.js
+* .history/src/components/app_20210220131241.js
+* .history/src/components/app_20210220131244.js
+* .history/src/components/app_20210220131248.js
+* .history/src/components/app_20210220131256.js
+* .history/src/components/app_20210220131259.js
+
+
+Deleted files:
+
+
+Renamed files:
